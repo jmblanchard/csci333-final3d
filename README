@@ -1,0 +1,8 @@
+CSCI 333 Data Structures
+Problem 3, part d
+
+Program will take a filename and threshhold from the command line.
+File will contain a list of names. Program will count the occurance of
+each name in the file. If the names occur above the threshhold they are
+considered "nice." Otherwise they are considered "naughty." Next, the
+list of "nice" and "naughty" names will be printed.
